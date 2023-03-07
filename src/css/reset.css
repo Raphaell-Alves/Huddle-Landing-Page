@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-family: 'Poppins';
+}
+
+p{
+    line-height: 1.6rem;
+    font-size: 1.1rem;
+}
